@@ -1,0 +1,25 @@
+html {
+	background-color: rgb(200, 222, 255);
+}
+body{
+	background-color: rgb(200, 222, 255);
+	color: white;
+}
+.circle{
+	background-color: white;
+	-webkit-border-radius: 100px;
+	-moz-border-radius: 100px;
+	border-radius: 100px;
+	text-align: center;
+	float: left;
+
+	position: absolute;
+	color: rgb(200, 222, 255);
+
+}
+
+.text{
+	position: relative;
+	width: 100%;
+    top: 40%;
+}
